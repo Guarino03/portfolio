@@ -50,6 +50,23 @@ body{
     width: 44px;
     text-align: center;
 }
+.social .social-item a{
+    text-decoration: none;
+    color: inherit;
+}
+.social .social-item a:hover{
+    text-decoration: underline;
+}
+
+/* .social-item a {
+    transition: .35s;
+
+}
+
+.social:hover > :not(:hover) {
+    opacity: .4;
+
+} */
 
 .technologies span{
     background-color: rgb(133, 246, 246);
