@@ -82,3 +82,8 @@ body{
 .technologies div{
     text-align: center;
 }
+
+.about-me p{
+    margin-bottom: 0;
+    
+}
